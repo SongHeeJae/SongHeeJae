@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/gmlwo308)](https://leetcode.com/gmlwo308)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmlwo308)](https://solved.ac/gmlwo308/)
 
